@@ -22,3 +22,7 @@ This project also emphasizes the importance of clean code structure and modulari
 WeatherAPIData is a practical tool for learning how to connect Java applications to real-time external data sources. It shows how to manage HTTP connections, parse JSON, and structure a Java project that involves asynchronous web interactions. The Open-Meteo APIs used are free and do not require an API key, making this project accessible for beginners and useful for teaching purposes. Whether you are a student exploring Java networking and JSON parsing, or a developer looking for a base template to build a more advanced weather app, this project serves as a great starting point.
 
 In summary, WeatherAPIData is a functional, beginner-friendly Java application that showcases real-time weather data retrieval by integrating with web APIs. It combines core programming concepts such as user input, network communication, error handling, and data parsing into one cohesive project. It can easily be extended to include more detailed weather forecasts, a GUI interface, or support for multiple results per city. This makes it a flexible and educational example for anyone looking to enhance their Java skills through hands-on, real-world projects.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/42cacfa1-a9b9-471f-8f3f-df3e6bfcc933)
